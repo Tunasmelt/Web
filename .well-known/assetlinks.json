@@ -1,0 +1,15 @@
+[
+    {
+        "relation": [
+            "delegate_permission/common.get_login_creds",
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "io.binarynumbers.cinepolis_india",
+            "sha256_cert_fingerprints": [
+                "D0:A6:0A:9B:D7:35:F1:B9:F0:C1:F6:C3:D4:8B:36:78:8D:7E:5F:84:9C:E7:EC:E3:2D:93:00:BE:41:DA:BB:EC"
+            ]
+        }
+    }
+]

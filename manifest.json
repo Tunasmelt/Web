@@ -1,0 +1,36 @@
+{
+    "name": "Cinepolis India App",
+    "short_name": "Cinepolis India",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#08285b",
+    "theme_color": "#08285b",
+    "description": "Cinepolis India App",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "icons/icon_maskable-196.png",
+            "sizes": "196x196",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "icons/icon_maskable-512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "icons/icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/icon_maskable-1024.png",
+            "sizes": "1024x1024",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+    ]
+}
